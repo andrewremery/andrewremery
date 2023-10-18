@@ -1,8 +1,7 @@
 Hey there! 
 
-Thank you so much for reading! My name is Andrew. I am passionate about building relationships with people. I provide creative solutions to solve problems and help people communicate their values. This is my profile for freelance and personal work.
-
-I work as a WordPress developer at [Madden Media](https://maddenmedia.com/)
+Thank you so much for reading! My name is Andrew. I am passionate about building relationships with people. I provide creative solutions to solve problems and help people communicate their values. 
+I work as a Web Developer at [Ithaca College](https://www.ithaca.edu/)
 
 **I’m interested in:**
 - WordPress
@@ -14,9 +13,7 @@ I work as a WordPress developer at [Madden Media](https://maddenmedia.com/)
 - XR
 
 **I’m currently learning:**
-- WordPress
-- Gutenberg
-- Product development
+- Drupal 
 - Effective communications
 - Project workflows
 

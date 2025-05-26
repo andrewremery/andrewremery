@@ -1,7 +1,7 @@
 Hey there! 
 
 Thank you so much for reading! My name is Andrew. I am passionate about building relationships with people. I provide creative solutions to solve problems and help people communicate their values. 
-I work as a Web Developer at [Ithaca College](https://www.ithaca.edu/)
+I work as a Web Developer and accessibility lead at [Ithaca College](https://www.ithaca.edu/)
 
 **I’m interested in:**
 - WordPress
@@ -14,8 +14,7 @@ I work as a Web Developer at [Ithaca College](https://www.ithaca.edu/)
 
 **I’m currently learning:**
 - Drupal 
-- Effective communications
-- Project workflows
+- Accessibility
 
 **I’m looking to collaborate on:**
 - Payed freelance work
